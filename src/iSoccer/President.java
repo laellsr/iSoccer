@@ -17,6 +17,6 @@ public class President extends Person
 	}
 	
 	public void setPresident() {
-		setPerson(); setSalary();		
+		setPerson(); setSalary();
 	}
 }

@@ -6,6 +6,7 @@ public class Person
 {
 	protected Scanner input = new Scanner(System.in);
 	protected String name, email, CPF, phone;
+	double supportvalue;
 
 	public String getName() {
 		return name;
@@ -48,5 +49,22 @@ public class Person
 		setName(); setEmail(); setCPF(); setPhone();
 	}
 	
+	public void setStatus()
+	{
 	
+	}
+	public int getStatus()
+	{
+		return 0;
+	}
+	public double getSupportvalue() {
+		return supportvalue;
+	}
+	public void setSupportvalue(Double supportvalue) {
+		this.supportvalue = supportvalue;
+	}
+	public int getType()
+	{
+		return 0;
+	}
 }

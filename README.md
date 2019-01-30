@@ -42,5 +42,46 @@ Fourth Software Project in Java
     - Vantagem: *Reaproveitar espaços de código*
 
 - **Main**
-    - Motivação: *Ordenar as intruções do programa*
+    - Motivação: *Ordenar as instruções do programa*
 
+## Distribuição dos Métodos
+
+    Motivação
+    Solução
+    Vantages
+    Desvantagens
+
+## Herança
+
+    Motivação
+    Solução
+    Vantages
+    Desvantagens
+
+## Polimorfismo
+
+    Motivação
+    Solução
+    Vantages
+    Desvantagens
+
+## Tratamento de Exceções
+
+    Motivação
+    Solução
+    Vantages
+    Desvantagens
+
+## Extensibilidade
+
+    Motivação
+    Solução
+    Vantages
+    Desvantagens
+
+## Reuso
+
+    Motivação
+    Solução
+    Vantages
+    Desvantagens

@@ -21,7 +21,7 @@ Fourth Software Project in Java
 - **Person**
     - Motivação:  *Todos os funcionários e sócios-torcedores possuem informações em comum*
     - Vantagem: *Generalização de informações*
-    - Desvantagem:  *É necessário passar todos os métodos das subclasses*
+    - Desvantagem:  *É necessário passar todos os métodos de propriedade das subclasses*
     - Subclasses de Person:
       - **President**
       - **Doctor**
@@ -30,5 +30,13 @@ Fourth Software Project in Java
       - **Driver**
       - **Cooker**
       - **Lawyer**
-      - **Player**  
+      - **Player**
+      - **PartnerSupporter**
+
+- **Menu**
+    - Motivação:  *Centralizar os métodos de menu*
+    - Vantagem: *Reaproveitar espaços de código*
+
+- **Main**
+    - Motivação: *Ordenar as intruções do programa*
 

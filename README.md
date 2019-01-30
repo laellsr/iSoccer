@@ -4,7 +4,7 @@ Fourth Software Project in Java
 ## Funcionalidades
 
 Autenticação no sistema
-        - Usuário e senha
+  - Usuário e senha
 Gerenciar funcionários de um time
         - Adicionar funcinário por cargo
 Gerenciar os recursos financeiros de um time

@@ -3,15 +3,15 @@ Fourth Software Project in Java
 
 ## Funcionalidades
 
-- Passar pelo registro do sistema
+Autenticação no sistema
     - Usuário e senha
-- Gerenciar funcionários de um time
+Gerenciar funcionários de um time
     - Adicionar funcinário por cargo
-- Gerenciar os recursos financeiros de um time
+Gerenciar os recursos financeiros de um time
     - Adicionar ou vereficar esses recursos
-- Gerenciar sócios-torcedores
+Gerenciar sócios-torcedores
     - Adicionar e editar contribuições de acordo com o tipo
-- Solicitar relatórios
+Solicitar relatórios
     - Sobre os funcionários
     - Sobre os recursos físicos
     - Sobre os sócios-torcedores
